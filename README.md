@@ -1,2 +1,2 @@
-# Prijava-Novi-korisnik-forma
-new user/ log in form
+# New User/ Log In Form
+Novi korisnik, prijavljivanje forma
